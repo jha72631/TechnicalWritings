@@ -1,7 +1,7 @@
 # Scaling and Load Balancer
 ***
 ## Introduction
-In a software industry when a product is designed, Industry want it to reach to the large number of users. reaching to the large number of users means the given software should be able to maintain its response time same as when number of users were less. if the response time is significantly large, then users might lose patience and leave your product. that is why Scaling is required.
+In a software industry when a product is designed, Industry want it to reach to the large number of users. reaching to the large number of users means the given software should be able to maintain its response time same as when number of users were less. if the response time is significantly large, then users might lose patience and leave your product. that is why Scaling is required to mainain the response time at the minimum level even if work load is large.
 
 Scalability is the property of a system to handle a growing amount of work by adding resources to the system.
 ***
